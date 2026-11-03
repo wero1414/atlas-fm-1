@@ -1405,5 +1405,23 @@
   "sounds": "None",
   "sequencer": "None",
   "midi": "OUT: every key/button/knob as USB-MIDI notes"
- }
+ },
+{
+ "name": "RIFT by mykeln",
+ "author": "Myke Nahorniak (mykeln)",
+ "family": "Felucca",
+ "purpose": "Generative",
+ "emulates": "Original drone instrument inspired by public VHIKK-X behavior; not a verified emulation",
+ "engines": "Nine oscillator-pair/cluster modes; phase/ring modulation, filter, stereo feedback and frequency translation",
+ "sounds": "27 starting sounds (three per mode); three macro pages",
+ "sequencer": "Drone/keyed operation; inherited Felucca facilities are not separately device-validated for RIFT",
+ "midi": "USB/TRS notes and dedicated CC map via Felucca; full current-version hardware validation pending",
+ "clock": "Not independently validated for RIFT",
+ "why": "Original experimental drone DSP and UI on FM-1 hardware. Distinct from Vaayaa's unrelated RIFT firmware.",
+ "features": "RIFT owns stereo output on part 1; host integration and control/audio regression tests with sanitizers; recursive source clone includes pinned engine/BSP dependencies.",
+ "status": "Build from source; experimental 0.2, device confirmation and install/exit tests pending; no public package",
+ "license": "GPL-3.0-only",
+ "repo": "https://github.com/mykeln/fm1-rift",
+ "install": ""
+}
 ]
