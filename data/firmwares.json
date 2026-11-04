@@ -1134,6 +1134,27 @@
   "midi": "USB"
  },
  {
+  "name": "CHOPPAH",
+  "author": "profikid",
+  "family": "fm1-base",
+  "type": "Breakbeat chopper (16 slices, pads, generator, FX chain)",
+  "status": "Prebuilt .fwsc",
+  "license": "MPL-2.0",
+  "clock": "in and out (24 ppqn, start/stop)",
+  "midi_in": "USB, BLE",
+  "why": "The FM-1 as a breakbeat instrument: the break is cut into sixteen slices you play on the white keys, eleven momentary pads throw rolls, reverse, freeze and tape stops into it, and a generator rearranges the break as it plays. It treats the break itself as the instrument rather than a sample to trigger.",
+  "features": "16 slices with hold-to-loop (length, pitch, start, loop/ping-pong/reverse), 11 momentary pads (roll 1/8 to 1/32, reverse, freeze, half, tape stop, gate, random, filter throw, dub throw), a live generator, a four-slot master FX chain (filter, crunch, drive, punch, flanger, ring mod, tremolo, reverb, delay, 3-band EQ, tape saturation, multiband comp, clipper) with per-slice effects, a DJ filter, 16 patterns with a 32-step sequencer and recording, a synthesised four-layer kick, a snare and a hat, a mixer and a Bluetooth audio out.",
+  "repo": "https://github.com/profikid/fm1-break-choppah",
+  "install": "https://profikid.github.io/fm1-break-choppah/install/",
+  "purpose": "Drum machine",
+  "emulates": "An Amen break chopper (MPC-style slice playback with momentary effect pads)",
+  "engines": "16-slice break playback with per-slice pitch, loops and effects; a live break generator; a synthesised kick, snare and hat",
+  "sounds": "Eight classic breaks built in (Amen Brother, Funky Drummer, The Worm, Think, Cold Sweat, Hot Pants, Apache, Sport), each cut into 16 slices; a synthesised drum kit",
+  "sequencer": "16 patterns, 32 break steps per pattern, separate kick, snare and hat lanes (16 steps each), Euclidean fills, recording",
+  "midi": "IN: USB, BLE. Notes 48-63 (C3-D#4) play slices 1-16, 36 kick, 38 snare, 42/44/46 hat, any channel. Clock in and out (24 ppqn) with start/stop. Bluetooth MIDI on and off.",
+  "rank": 3
+ },
+ {
   "name": "fm1-rocket-os",
   "author": "cmlarsen",
   "family": "Modular / Builder",

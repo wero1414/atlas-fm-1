@@ -1,292 +1,483 @@
 {
- "fetched": "2026-10-14T22:00:00Z",
- "note": "pushed_at/stars from GitHub REST API; czietz/fm1-firmware-patcher and smememe/fm1-macropad-patch not yet fetched (rate limit)",
+ "fetched": "2026-11-04T05:11:01Z",
  "repos": {
   "m-vave/fm1_open": {
-   "error": 404
+   "pushed_at": "2026-10-21",
+   "stargazers_count": 298,
+   "archived": false,
+   "license": "NOASSERTION",
+   "fork_of": null,
+   "description": null
   },
   "hugelton/Felucca": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 479,
-   "archived": false
+   "pushed_at": "2026-11-04",
+   "stargazers_count": 645,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Custom firmware for M-VAVE FM-1"
   },
   "ChanceTheMaker/Felucca": {
    "pushed_at": "2026-10-12",
-   "stargazers_count": 5,
-   "archived": false
+   "stargazers_count": 8,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Custom firmware for M-VAVE FM-1"
   },
   "keremimo/melodee": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 74,
-   "archived": false
+   "pushed_at": "2026-11-02",
+   "stargazers_count": 179,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Custom firmware for M-VAVE FM-1"
   },
   "Quixotic7/ChoralRootFM1": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 50,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 97,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Telepathic chord machine for the MVave FM-1"
   },
   "charlesvestal/fm1-x0x": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 158,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 217,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "X0X: groovebox firmware for the M-VAVE FM-1 (909, 808, two 303s with TB-3PO, breakbeat generator, song mode). A fork of Felucca."
   },
   "jasonpersinger/ghoulbox-fm1-dungeon-synth": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 43,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 82,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "GHOULBOX: dungeon synth firmware for the M-VAVE FM-1 (a fork of Felucca): cathedral reverb, tape, hurdy-gurdy engine, 59 curated sounds, old-RPG screen"
   },
   "zednaked/jangada": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 26,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 37,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Alternative firmware for the M-VAVE FM-1 pocket synth: superwave analog, modulation matrix, latched drones, ratchets, 4 tracks. A Felucca fork. \ud83d\udef6"
   },
   "DeadActive/hortator": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 15,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 48,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Hortator is an M-VAVE FM-1 custom firmware based on Felucca"
   },
   "beashoko/april-os": {
-   "pushed_at": "2026-10-10",
-   "stargazers_count": 7,
-   "archived": false
+   "pushed_at": "2026-10-29",
+   "stargazers_count": 11,
+   "archived": false,
+   "license": "MIT",
+   "fork_of": null,
+   "description": "FM-1 firmware Felucca fork that focuses on sampling"
   },
   "ELI7VH/Felucca": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 6,
-   "archived": false
+   "pushed_at": "2026-10-26",
+   "stargazers_count": 9,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Felucca Mod: standalone MiniLab 3 control for FM-1, fine track mixing, DJ filter, momentary effects and MIDI feedback."
   },
   "joshbartlettband-web/felucca-rainbow": {
-   "pushed_at": "2026-10-11",
-   "stargazers_count": 13,
-   "archived": false
+   "pushed_at": "2026-10-31",
+   "stargazers_count": 19,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Rainbow mode: a music toy for little hands. Firmware for the M-VAVE FM-1, a fork of Felucca."
   },
   "math0ne/fm1-chord": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 8,
-   "archived": false
+   "pushed_at": "2026-10-16",
+   "stargazers_count": 15,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "A chord machine instrument firmware for the M-VAVE FM-1, built on Felucca"
   },
   "oscillr/DUELL": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 7,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 19,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "MultiMorphing Bi-timbral Synthesizer \u00b7 by OSCILL/R for M-VAVE FM-1"
   },
   "okumurari2/maku": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 20,
-   "archived": false
+   "pushed_at": "2026-10-19",
+   "stargazers_count": 25,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Custom firmware for M-VAVE FM-1"
   },
   "charlesvestal/fm1-polly": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 10,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 25,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Polly: a QY70-style pocket arranger firmware for the M-VAVE FM-1 (private)"
   },
   "apiel/fm1-tribe": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 6,
-   "archived": false
+   "pushed_at": "2026-10-23",
+   "stargazers_count": 12,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": null
   },
   "Gadlele/Golana": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 0,
-   "archived": false
+   "pushed_at": "2026-10-26",
+   "stargazers_count": 12,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": null
   },
   "Gadlele/Pelucco": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 0,
-   "archived": false
+   "pushed_at": "2026-10-16",
+   "stargazers_count": 5,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Custom firmware for M-VAVE FM-1, a fork of Felucca"
   },
   "illuminus5/skiff": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 3,
-   "archived": false
+   "pushed_at": "2026-11-04",
+   "stargazers_count": 133,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Six-track groovebox firmware for the M-VAVE FM-1: 14 synth and drum engines, a 64-step sequencer, patterns and songs, live performance, and a browser editor. Built on Felucca."
   },
   "echoe/Felucca_8_patterns": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 3,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 6,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "This custom firmware for M-VAVE FM-1 is a Felucca branch written via free LLM. It adds 8 sequences you can swap between live per track, track sequence chaining, a generative arp engine, and playable/saveable chord mode. It removes user samples to make room. Documentation on unique features is at the bottom of the README."
   },
   "isod89/sloop-fm1": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 485,
-   "archived": false
+   "pushed_at": "2026-11-04",
+   "stargazers_count": 730,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "A live groovebox firmware for the M-VAVE FM-1"
   },
   "zvenson/dxsloop": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 22,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 27,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "isod89/sloop-fm1",
+   "description": "A live groovebox firmware for the M-VAVE FM-1"
   },
   "Nicodesy06/FM1-MOVE": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 8,
-   "archived": false
+   "pushed_at": "2026-10-15",
+   "stargazers_count": 15,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": null
   },
   "hericdk/fm1-quest": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 9,
-   "archived": false
+   "pushed_at": "2026-11-02",
+   "stargazers_count": 14,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "isod89/sloop-fm1",
+   "description": "A live RPG Adventure inside your M-VAVE FM-1"
   },
   "juanjiant-bit/JIANT": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 112,
-   "archived": false
+   "pushed_at": "2026-11-04",
+   "stargazers_count": 207,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "hugelton/Felucca",
+   "description": "Custom firmware for M-VAVE FM-1"
   },
   "dspaudio/orbit": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 18,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 38,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "ORBIT groovebox firmware for FM-1, based on SLOOP: sample tools, event tape editing, and OP-1-inspired screens."
   },
   "catacombius/NoteSorcery": {
-   "pushed_at": "2026-10-09",
-   "stargazers_count": 1,
-   "archived": false
+   "pushed_at": "2026-10-20",
+   "stargazers_count": 2,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "custom FM-1 Firmware with android / ableton integration"
   },
   "shaw-core/Sloop_ALG02": {
    "pushed_at": "2026-10-07",
-   "stargazers_count": 3,
-   "archived": false
+   "stargazers_count": 5,
+   "archived": false,
+   "license": null,
+   "fork_of": null,
+   "description": null
   },
   "y6zkcqnf5r-hue/fm1-fm80s": {
    "pushed_at": "2026-10-10",
-   "stargazers_count": 2,
-   "archived": false
+   "stargazers_count": 4,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "FM80S : un synth\u00e9-looper ludique pour le M-VAVE FM-1 (firmware libre, GPL-3.0)"
   },
   "majnikool/sloop-fm1": {
    "pushed_at": "2026-10-09",
-   "stargazers_count": 1,
-   "archived": false
+   "stargazers_count": 5,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "isod89/sloop-fm1",
+   "description": "A live groovebox firmware for the M-VAVE FM-1"
   },
   "renebohne/sloop-fm1": {
    "pushed_at": "2026-10-09",
-   "stargazers_count": 1,
-   "archived": false
+   "stargazers_count": 3,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": "isod89/sloop-fm1",
+   "description": "A live groovebox firmware for the M-VAVE FM-1"
   },
   "hericdk/winampFM": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 5,
-   "archived": false
+   "pushed_at": "2026-11-02",
+   "stargazers_count": 10,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "winampFM Synth: a Winamp 2.x-style firmware for the M-VAVE FM-1, based on SLOOP 2.6 (GPL-3.0)"
   },
   "charlesvestal/fm1-fomni": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 58,
-   "archived": false
+   "pushed_at": "2026-10-31",
+   "stargazers_count": 75,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "FoMni: a chord harp firmware for the M-VAVE FM-1, inspired by the Omnichord. Strum the white keys, pick chords on the black ones."
   },
   "cartesive/fumi-1": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 7,
-   "archived": false
+   "pushed_at": "2026-10-23",
+   "stargazers_count": 21,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "FuMi-1: custom firmware for the M-VAVE FM-1 inspired by the Suiko ST-50 shigin conductor (a fork of FoMni)"
   },
   "Erbubar23/bubba-machine": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 5,
-   "archived": false
+   "pushed_at": "2026-10-25",
+   "stargazers_count": 10,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Bubba Machine: firmware libre (GPL-3.0) de groovebox de 6 pistas para el M-VAVE FM-1"
   },
   "zvenson/zp12": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 24,
-   "archived": false
+   "pushed_at": "2026-10-24",
+   "stargazers_count": 35,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "attempt to Sp12 on Fm-1 m-vave"
   },
   "jadamsowers/fm1-fimba": {
    "pushed_at": "2026-10-13",
-   "stargazers_count": 17,
-   "archived": false
+   "stargazers_count": 21,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "FiMba-1: a physically modelled kalimba (thumb piano) firmware for the M-VAVE FM-1, with mbira patterns, tape, grains and more. Built on Felucca, X0X and FoMni."
   },
   "ip2k/lunar-modulator": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 59,
-   "archived": false
+   "pushed_at": "2026-11-02",
+   "stargazers_count": 63,
+   "archived": false,
+   "license": "MIT",
+   "fork_of": null,
+   "description": "Lunar Modulator \u2014 INTERGALACTIC MODULATION STATION. Open firmware for the M-VAVE FM-1: sound engines, a sequencer and a playable browser simulator. Preview: Lunar has not run on an FM-1 yet."
   },
   "charlesvestal/fm1-amb": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 37,
-   "archived": false
+   "pushed_at": "2026-10-31",
+   "stargazers_count": 112,
+   "archived": false,
+   "license": "MPL-2.0",
+   "fork_of": null,
+   "description": "AMB-1: a generative ambient machine for the M-VAVE FM-1, inspired by Music for Airports"
   },
   "charlesvestal/fm1-ctl": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 7,
-   "archived": false
+   "pushed_at": "2026-10-31",
+   "stargazers_count": 22,
+   "archived": false,
+   "license": "MPL-2.0",
+   "fork_of": null,
+   "description": "CTL-1: a MIDI controller firmware for the M-VAVE FM-1, with General MIDI sounds of its own"
   },
   "Quixotic7/PurpleMonkeyFM1": {
    "pushed_at": "2026-10-10",
-   "stargazers_count": 2,
-   "archived": false
+   "stargazers_count": 9,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "MVave FM-1 Firmware for kids"
   },
   "friendsmakenoise-prog/fm1-pocket-sampler": {
    "error": 404
   },
   "NOVALENTI/fm1-polyseq": {
-   "pushed_at": "2026-09-04",
-   "stargazers_count": 2,
-   "archived": false
+   "pushed_at": "2026-10-29",
+   "stargazers_count": 3,
+   "archived": false,
+   "license": null,
+   "fork_of": null,
+   "description": "Polyphonic 16-step sequencer and HAL for the M-VAVE FM-1 synthesizer (JieLi AC7911B8, pi32v2). Strict C99, zero-malloc."
   },
   "patttf/fm-106": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 8,
-   "archived": false
+   "pushed_at": "2026-11-01",
+   "stargazers_count": 14,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "A port of KR-106 to the MVAVE FM-1"
   },
   "SikkenWorks/ETCH": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 5,
-   "archived": false
+   "pushed_at": "2026-10-30",
+   "stargazers_count": 10,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "DRAW. MORPH. MODULATE. M-VAVE FM1"
   },
   "JalopyMusic/fm1-milkboyg-ambii": {
-   "pushed_at": "2026-10-10",
-   "stargazers_count": 0,
-   "archived": false
+   "error": 404
   },
   "dspaudio/mc-1": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 1,
-   "archived": false
+   "pushed_at": "2026-10-20",
+   "stargazers_count": 6,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "MC-1: original groovebox firmware for M-VAVE FM-1 \u2014 LA-inspired, acid and synthesized drums"
   },
   "zvenson/obervave": {
-   "pushed_at": "2026-10-14",
-   "stargazers_count": 5,
-   "archived": false
+   "pushed_at": "2026-11-02",
+   "stargazers_count": 49,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": null
   },
   "cmlarsen/fm1-rocket-os": {
    "pushed_at": "2026-10-12",
-   "stargazers_count": 1,
-   "archived": false
+   "stargazers_count": 2,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Clip-launching performance firmware for the M-VAVE FM-1 (GPL-3.0, forked from X0X)"
   },
   "w0ts/optimist": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 15,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 30,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Optimist: an open, modular firmware platform for the M-VAVE FM-1 (from SLOOP / Felucca)"
   },
   "zvenson/dinghy": {
-   "pushed_at": "2026-10-12",
-   "stargazers_count": 28,
-   "archived": false
+   "pushed_at": "2026-11-03",
+   "stargazers_count": 49,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "The smallest firmware for the M-VAVE FM-1 to build your own on: the plumbing done and documented (updates, USB rescue, USB-MIDI, USB audio, panel, screen, settings), a sine on top."
   },
   "zvenson/fm1doom": {
    "pushed_at": "2026-10-07",
    "stargazers_count": 2,
-   "archived": false
+   "archived": false,
+   "license": "GPL-2.0",
+   "fork_of": null,
+   "description": "doom on fm1"
   },
   "Keitark/fm1-nes": {
    "pushed_at": "2026-10-09",
-   "stargazers_count": 16,
-   "archived": false
+   "stargazers_count": 19,
+   "archived": false,
+   "license": "Apache-2.0",
+   "fork_of": null,
+   "description": "Custom firmware development resources for M-VAVE FM-1 (WL82): source-only SDK integration, diagnostics and a NES example."
   },
   "charlesvestal/fm1-mocky": {
-   "pushed_at": "2026-10-10",
-   "stargazers_count": 2,
-   "archived": false
+   "pushed_at": "2026-10-31",
+   "stargazers_count": 3,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Mocky: pictures on the M-VAVE FM-1's screen, sent from the browser (custom firmware + web app)"
   },
   "Keitark/fm1-mdx": {
    "pushed_at": "2026-10-08",
-   "stargazers_count": 0,
-   "archived": false
+   "stargazers_count": 1,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Experimental MDX/PDX karaoke player for the M-VAVE FM-1"
   },
   "ChanceTheMaker/gamedude-fm1-smk": {
-   "pushed_at": "2026-10-13",
-   "stargazers_count": 1,
-   "archived": false
+   "pushed_at": "2026-10-22",
+   "stargazers_count": 3,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "GameDude: Game Boy emulator, ROM-to-firmware tools and browser simulator for FM-1 and SMK37."
   },
   "adamcharleswilsonmusic-code/Fart-Machine-One": {
+   "pushed_at": "2026-10-23",
+   "stargazers_count": 23,
+   "archived": false,
+   "license": "GPL-3.0",
+   "fork_of": null,
+   "description": "Turns your M-VAVE FM-1 into a questionable musical instrument. Ten artisanal farts, reverb, delay, and a sixteen-step sequencer."
+  },
+  "profikid/fm1-break-choppah": {
+   "pushed_at": "2026-11-04",
+   "stargazers_count": 4,
+   "archived": false,
+   "license": "MPL-2.0",
+   "fork_of": null,
+   "description": "Choppah firmware for the M-Vave FM1"
+  },
+  "czietz/fm1-firmware-patcher": {
+   "pushed_at": "2026-10-28",
+   "stargazers_count": 11,
+   "archived": false,
+   "license": "Unlicense",
+   "fork_of": null,
+   "description": "M-VAVE FM-1 firmware patching utility"
+  },
+  "smememe/fm1-macropad-patch": {
    "pushed_at": "2026-10-12",
-   "stargazers_count": 15,
-   "archived": false
+   "stargazers_count": 3,
+   "archived": false,
+   "license": "MIT",
+   "fork_of": null,
+   "description": "Unofficial patch that turns the M-VAVE FM-1 into a MIDI macro pad"
   }
  }
 }
