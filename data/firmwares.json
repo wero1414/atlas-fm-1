@@ -1405,5 +1405,25 @@
   "sounds": "None",
   "sequencer": "None",
   "midi": "OUT: every key/button/knob as USB-MIDI notes"
+ },
+ {
+  "name": "Big Beat Studio BB1",
+  "author": "TexasRADIO",
+  "family": "Felucca",
+  "type": "Two-machine rhythm box + acid bass",
+  "status": "Author web installer (2.1.1)",
+  "license": "GPL-3.0-only",
+  "clock": "Clock and MIDI settings documented in current guide; clock output default OFF",
+  "midi_in": "USB, TRS",
+  "why": "Two independent drum layers and Dillo, an Open303-derived monophonic acid bass, through shared tape echo and spring. Song sections, era grooves and an ACID phrase bank, with a browser player and web installer.",
+  "features": "Free rhythm firmware for the M-VAVE FM-1. BB1 2.1 adds Rhythm Conductor, a redesigned interface and contextual help. BB1 2.1.1 clarifies three section labels without changing the music. Use the author installer for the application and matching sound library; the standalone firmware image does not install the sampled kits.",
+  "repo": "https://github.com/TexasRADIO/bb1-firmware",
+  "install": "https://thebigbeat.app/fm1/install/",
+  "purpose": "Drum machine",
+  "emulates": "Two classic drum machines and a TB-303 in one box",
+  "engines": "3: synthesised 808, sampled drum player, 303-style bass (Dillo)",
+  "sounds": "8 base drum machines + 31 additional kits; 9 Dillo bass presets",
+  "sequencer": "Two independent drum layers + bass; named song arranger, ratchets and swung recording",
+  "midi": "Configurable USB/TRS MIDI input; see current guide for transport and clock settings."
  }
 ]
