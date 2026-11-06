@@ -1134,6 +1134,27 @@
   "midi": "USB"
  },
  {
+  "name": "DX747",
+  "author": "Esben von Buchwald (esbenvb)",
+  "family": "Independent",
+  "type": "Multitimbral DX7 module",
+  "status": "Web installer",
+  "license": "GPL-3.0 (app) + vendor blobs",
+  "clock": "n/a (sound module, no sequencer)",
+  "midi_in": "USB, BLE, TRS",
+  "why": "A TX816 in a pocket: eight parts on their own MIDI channels, each stacking up to eight layered DX7 voices, with key splits, velocity windows and 64 scenes. A sound module built for MIDI, so the sequencer, sampler and drum machine are gone.",
+  "features": "8 parts on any of 16 MIDI channels, up to 8 layers per part (own note window, velocity window, octave shift and fold, level, pan, sends, BRIGHT), 16 shared voices, mixer with mute and solo, BRIGHT macro that opens the sound by moving the modulators, master low/high/band-pass filter with resonance, shared reverb and delay, 64 scenes in 4 banks, live MIDI monitor, built-in keys play the selected part. Web editor and in-browser emulator on the installer page. Beta (v0.1), tested by its author on a real FM-1. No projects or samples, so it cannot read another firmware's.",
+  "repo": "https://github.com/esbenvb/fm1-dx747",
+  "install": "https://esbenvb.github.io/fm1-dx747/#update",
+  "rank": 3,
+  "purpose": "Classic synth",
+  "emulates": "Yamaha TX816 (eight DX7 tone generators in a rack)",
+  "engines": "Eight 6-op DX7 engines (the FM1 SDK's DX7 engine), 16 shared voices, master filter, shared reverb and delay",
+  "sounds": "128 factory voices in 4 banks of 32, DX7 ROM cartridge import from the web workbench, 64 scenes",
+  "sequencer": "None (sound module: no sequencer, sampler or projects)",
+  "midi": "IN: TRS (DIN), USB, BLE into one router. Each part on any of 16 channels; program change and bank select, CC7/10/11/64/91, CC74/71 BRIGHT, pitch bend, DX7 SysEx editing. Scene recall by program change on a scene channel, master filter on a control channel."
+ },
+ {
   "name": "fm1-rocket-os",
   "author": "cmlarsen",
   "family": "Modular / Builder",
