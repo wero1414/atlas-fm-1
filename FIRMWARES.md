@@ -1,10 +1,10 @@
 # FM-1 Firmware Atlas
 
-67 firmwares for the M-VAVE FM-1. Built 2026-10-14 from `data/firmwares.json` and GitHub activity in `data/github-meta.json`.
+68 firmwares for the M-VAVE FM-1. Built 2026-10-14 from `data/firmwares.json` and GitHub activity in `data/github-meta.json`.
 
 Health: active = pushed within 14 days, quiet = 15-60 days, stale = older. The scene started July 2026, so stale means abandoned-looking here.
 
-## Classic synth (11)
+## Classic synth (12)
 
 | Firmware | Tries to be | Engines | Sounds | Sequencer | MIDI | Health | Stars | Install | License |
 |---|---|---|---|---|---|---|---|---|---|
@@ -13,6 +13,7 @@ Health: active = pushed within 14 days, quiet = 15-60 days, stale = older. The s
 | [ETCH](https://github.com/SikkenWorks/ETCH) | Wave-drawing synth (Fairlight / Casio FZ spirit) | Drawn single-cycle waves A/B morph + C modulator, 8 voices | Wave library | Motion rec, arp with RIFF mode | USB | active 2026-10-14 | 5 | Web installer ([installer](https://etch.sikkenworks.com/)) | GPL-3.0 |
 | [FM-106](https://github.com/patttf/fm-106) | Roland Juno-106 | KR-106 port: 6-voice DCO, chorus | 2 factory + 2 user banks, Juno .syx import via web Librarian | None (synth) | USB in, USB-C audio out | active 2026-10-14 | 8 | Web installer ([installer](https://patttf.github.io/fm-106/Librarian.html)) | GPL-3.0 |
 | [Golana](https://github.com/Gadlele/Golana) | Korg microKORG (MS-20 filter) | 4-voice VA, 2 osc, dual LFO, patch matrix, 24/12 dB LPF, BPF, HPF, MS-20 LPF | Programs with on-screen waveform/filter drawing | 16-step per program, arp | USB in | active 2026-10-14 | 0 | Build from source | GPL-3.0 |
+| [h1](https://github.com/jakehandy/h1) | Fourteen animated instruments for the FM-1 | Fourteen instruments, eight algorithms and four live knobs each | 112 sounds; BARD and TWANG use CC0 recordings | Loop recorder, step sequencer, arpeggiator and metronome | IN: USB and TRS. Notes, and CC 20 to 23 for the four knobs. No MIDI out. No Bluetooth. | active 2026-11-18 | 0 | Prebuilt .fwsc ([installer](https://thefirmwarehub.com/firmware/h1/)) | MIT |
 | [Lunar Modulator](https://github.com/ip2k/lunar-modulator) | Mutable Instruments Plaits + Movy sequencer | 5 Mutable-derived engines, 160+ models | Models, shapes and patches | Step seq with p-locks | USB (browser only so far) | active 2026-10-14 | 59 | Emulator only | MIT |
 | [Melodee](https://github.com/keremimo/melodee) | Sequential Prophet-5 Rev4, Casio CZ-1, Commodore SID, Yamaha DX7 | PROPHET (2 osc, SSI/Curtis filters, poly-mod), CZ-1 phase distortion, SID, FM6, DRUM | 200 Prophet-5 factory programs, 64 CZ-1 factory tones, 64 DX7 slots, 70 microtonal tunings, .syx import/export | 4 tracks, 32 pattern banks, 1024 notes, note editor, QNT | IN: USB + TRS, ch 1-4 tracks, ch 10 drums. Clock INT/USB/TRS + Start/Stop/Continue. OUT: USB notes. SysEx preset import | active 2026-10-14 | 74 | Web installer ([installer](https://keremimo.github.io/melodee/)) | GPL-3.0 |
 | [Modular-1](https://wiggismodular.github.io/Modular-1/) | Clavia Nord Modular | Patchable modules, mod matrix | Your own patches from the browser editor | Euclidean generative arp | USB | n/a  |  | Web installer ([installer](https://wiggismodular.github.io/Modular-1/)) | GPL-3.0 |
@@ -169,6 +170,7 @@ Health: active = pushed within 14 days, quiet = 15-60 days, stale = older. The s
 - **GHOULBOX 2.0** (Jason Persinger): A genre firmware: dungeon synth and dark ambient. Cathedral HALL reverb, worn-cassette tape stage, a hurdy-gurdy engine, historical temperaments, RPG-styled UI.
 - **Golana** (Gadlele): Recreates the Korg microKORG workflow and MATRIX editing, with live waveform and filter-curve drawing on screen. Exists for people who want one deep virtual-analog synth.
 - **Groove OS** (Groove OS): Paid polished groovebox: up to 8 tracks with independent loop lengths, 6-op FM + VA ladder-filter engines, 20 voices, p-locks, stage view. Exists as the turnkey commercial option.
+- **h1** (Jake Handy): Custom firmware by Jake Handy: fourteen instruments with dynamic visuals. Eight algorithms and four live knobs, plus a loop recorder, a step sequencer, an arpeggiator and a metronome. Works on both the original flash chip and the newer UC25HQ80. Uses fm1-base.
 - **Hexagon Console** (unknown): Teased hexagonal-UI performance console. Nothing released yet.
 - **Hortator** (DEADACTIVE): A dedicated drum machine. 808/909 and Mutable Plaits drum models, Grids generative rhythms, user samples, pumping compressor. Fills the gap for people who want the FM-1 as a drum brain next to other synths.
 - **Jangada** (zednaked): Dark, industrial, Brazilian-accented take on Felucca with ratchets, drone modes and custom kits. Exists as a personal sound-design flavor of the platform.
